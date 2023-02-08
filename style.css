@@ -118,7 +118,7 @@ html, body {
 
 .hero-left {
       height: 100vh;
-      background: #f7f6f2;
+      background: #D3CBB8;
       z-index: -1;
 }
 
@@ -221,9 +221,10 @@ img {
 }
 
 .prod-sec {
-      width: 101%;
+      width: 100%;
       border-top: 1px solid rgba(0,0,0,0.1);
       border-bottom: 1px solid rgba(0,0,0,0.1);
+      background: #D3CBB8;
 }
 
 .prod-sec p {
@@ -261,7 +262,7 @@ img {
 
 .footer {
       padding: 30px 0;
-      background: #f7f6f2;
+      background: #D3CBB8;
 }
 
 .block {
@@ -331,6 +332,7 @@ footer p {
 
 .prod-left {
       border-right: 1px solid rgba(0,0,0,0.1);
+      background: #D3CBB8;
 }
 
 .prod-opt {
